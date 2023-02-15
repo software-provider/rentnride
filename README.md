@@ -30,6 +30,7 @@ This readily available car rental script is developed especially for helping the
 
 ![rent ride-how it works](https://user-images.githubusercontent.com/4700341/47709376-22909900-dc56-11e8-9841-397171079045.png)
 
+
 ## Features
 
 ### List a car
