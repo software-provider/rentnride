@@ -4,6 +4,7 @@ Rent&Ride is an open source for Car Rental Script. It is written in Lumen & Angu
 
 > This is project is part of Agriya Open Source efforts. Rent&Ride was originally a paid script and was selling around 60000 Euros. It is now released under dual license (OSL 3.0 & Commercial) for open source community benefits.
 
+
 ![rentnride-home](https://user-images.githubusercontent.com/4700341/47705875-c6297b80-dc4d-11e8-89e0-77e17f69c13e.png)
 
 ## Support
