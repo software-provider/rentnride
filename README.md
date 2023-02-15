@@ -115,4 +115,5 @@ All Submissions you make to rentnride through GitHub are subject to the followin
 
 Copyright (c) 2014-2018 [Agriya](https://www.agriya.com/).
 
+
 Dual License (OSL 3.0 & [Commercial License](https://www.agriya.com/contact))
