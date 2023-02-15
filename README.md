@@ -6,7 +6,6 @@ Rent&Ride is an open source for Car Rental Script. It is written in Lumen & Angu
 
 ![rentnride-home](https://user-images.githubusercontent.com/4700341/47705875-c6297b80-dc4d-11e8-89e0-77e17f69c13e.png)
 
-
 ## Support
 
 Rent&Ride is an open source project. Full commercial support (commercial license, customization, training, etc) are available through [Rent&Ride platform support](https://www.agriya.com/products/car-rental-script)
